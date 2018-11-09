@@ -13,7 +13,7 @@
 namespace BadCode
 {
 
-    class Employe
+    class Employee
     {
         public function work(): void
         {
